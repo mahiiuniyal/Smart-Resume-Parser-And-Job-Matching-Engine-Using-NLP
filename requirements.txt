@@ -1,0 +1,8 @@
+#list of all the python libraries to use in my code
+streamlit
+spacy
+sentence-transformers
+docx2txt
+pdfminer.six
+matplotlib
+pandas
